@@ -24,8 +24,8 @@ This Streamlit application generates YouTube video scripts based on user-provide
 1. **Clone the repository**
 
     ```sh
-    git clone https://github.com/yourusername/your-repo-name.git
-    cd your-repo-name
+    git clone https://github.com/KRISNABADDE/YouTube-Script-Writer.git
+    cd YouTube-Script-Writer
     ```
 
 2. **Create a virtual environment**
